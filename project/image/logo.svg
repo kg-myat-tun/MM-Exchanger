@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00d1ff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard 1">
+    <rect class="cls-1" width="1000" height="1000" rx="100" ry="100"/>
+    <g id="sign">
+      <g>
+        <path class="cls-2" d="M100.25,510.036h700v100h-700v-100Zm699,100"/>
+        <path class="cls-2" d="M900,509.755c-3.517,1.764-202.923,202.261-199.469,200.529l-0.53-200Z"/>
+      </g>
+      <g>
+        <path class="cls-2" d="M200,370H900V470H200V370Zm1,0"/>
+        <path class="cls-2" d="M100.25,470.276c3.517-1.764,202.923-202.261,199.469-200.529l0.53,200Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
